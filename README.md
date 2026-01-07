@@ -50,5 +50,5 @@ The bot includes a custom exception handling wrapper that catches:
 * `README.md`: Documentation.
 
 ## ✉️ Submission Info
-**Name**: Vivek [Your Last Name]
+**Name**: C V Vivek Sreekar
 **Role**: Junior Python Developer – Crypto Trading Bot
