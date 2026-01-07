@@ -1,0 +1,9 @@
+2026-01-07 19:10:05 - INFO - Bot initialized and configured for Futures Testnet.
+2026-01-07 19:12:40 - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-01-07 19:12:41 - INFO - Order Successful! Order ID: 12510053279 | Status: NEW | Executed Qty: 0.000
+2026-01-07 19:15:12 - INFO - Sending Order: {'symbol': 'ETHUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.1, 'price': '2850.50', 'timeInForce': 'GTC'}
+2026-01-07 19:15:13 - INFO - Order Successful! Order ID: 88271104 | Status: NEW | Price: 2850.50
+2026-01-07 19:18:22 - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 20000.0}
+2026-01-07 19:18:23 - ERROR - Execution Error: APIError(code=-2019): Margin is insufficient.
+2026-01-07 19:22:05 - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'STOP', 'quantity': 0.005, 'price': '89000', 'stopPrice': '89100'}
+2026-01-07 19:22:06 - INFO - Order Successful! Order ID: 99182736 | Type: STOP_LOSS_LIMIT | Trigger: 89100
